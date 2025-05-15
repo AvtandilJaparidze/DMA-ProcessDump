@@ -4,3 +4,6 @@
 [submodule "LeechCore"]
 	path = LeechCore
 	url = https://github.com/ufrisk/LeechCore.git
+[submodule "LeechCore-plugins"]
+	path = LeechCore-plugins
+	url = https://github.com/ufrisk/LeechCore-plugins
